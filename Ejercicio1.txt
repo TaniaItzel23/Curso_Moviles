@@ -1,3 +1,10 @@
 ¡¡Hola Curso de Moviles!!
 que tengan un exelente dia
+<<<<<<< HEAD
 R: Gracias Tania, igualmente tengas un excelente dia
+=======
+Modificado a la 1:35 hrs by JesusCerna
+>>>>>>> bfe8dc213dbbc8a17e7c1ebb33ed544fd001a776
+
+Modificado por marisol a las 2:21
+
